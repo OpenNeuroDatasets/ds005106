@@ -1,6 +1,11 @@
 {
     "BIDSVersion": "1.9.1",
-    "License": "This dataset is made available under the Creative Commons Attribution 4.0 International Public License, whose full text can be found at https://www.creativecommons.org/licenses/by/4.0/legalcode",
-    "Name": "200 Object stimuli presented in rapid streams at 5Hz to infants up to 12 months old",
-    "Authors": ["Genevieve Quek", "Zhen Zeng", "Manuel Varlet", "Tijl Grootswagers"]
+    "License": "CC0",
+    "Name": "200 Objects Infants EEG",
+    "Authors": [
+        "Genevieve Quek",
+        "Zhen Zeng",
+        "Manuel Varlet",
+        "Tijl Grootswagers"
+    ]
 }
