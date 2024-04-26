@@ -1,7 +1,0 @@
-{
-	"age_months": {"description": "age in months at testing date"},
-	"sex": {"description": "M/F"},
-	"blockscompleted": {"description": "number of blocks tolerated"},
-	"exclude": {"description": "experimenter subjectively recommended exclusion"},
-	"experimenter_notes": {"description": "additional experimenter notes from the sesssion"}
-}
