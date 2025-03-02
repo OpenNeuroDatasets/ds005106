@@ -1,5 +1,7 @@
 {
-    "BIDSVersion": "1.9.1",
+    "Name": "200 Objects Infants EEG",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
     "License": "CC0",
     "Name": "200 Objects Infants EEG",
     "Authors": [
@@ -13,5 +15,23 @@
     "ReferencesAndLinks": [
         "https://osf.io/preprints/psyarxiv/dzrkq",
         "https://doi.org/10.31234/osf.io/dzrkq"
-    ]
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "PsychoPy",
+            "Version": "2023.3.1",
+            "Description": "Used to program and run the experiment."
+        },
+        {
+            "Name": "Python",
+            "Version": "3.9.13",
+            "Description": "Used for scripting and experiment control."
+        },
+        {
+            "Name": "MNE-Python",
+            "Version": "1.7",
+            "Description": "Used for preprocessing and subsequent data analyses."
+        }
+    ],
+    "SourceDatasets": []
 }
