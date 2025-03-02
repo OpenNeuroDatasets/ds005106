@@ -1,0 +1,7 @@
+{
+	"TaskName": "fix",
+    "EEGReference": "n/a",
+    "SamplingFrequency": 500,
+    "PowerLineFrequency": 50,
+    "SoftwareFilters": "n/a"
+}
