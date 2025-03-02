@@ -1,0 +1,14 @@
+{
+    "trialnr": {"description": "event number within the experiment"},
+	"blocknr": {"description": "rapid sequence number"},
+    "presentationnumber": {"description": "presentation number within the stream"},
+	"stimnum": {"description": "stimulus number"},
+	"stim": {"description": "stimulus path"},
+    "StimulusPresentation": {
+        "PresentationSoftware": "PsychoPy",
+        "PresentationSoftwareVersion": "2023.3.1",
+        "Device": "LCD monitor",
+        "DeviceSerialNumber": "",
+        "RefreshRate": 60
+    }
+}
