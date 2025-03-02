@@ -26,11 +26,6 @@
             "Name": "Python",
             "Version": "3.9.13",
             "Description": "Used for scripting and experiment control."
-        },
-        {
-            "Name": "MNE-Python",
-            "Version": "1.7",
-            "Description": "Used for preprocessing and subsequent data analyses."
         }
     ],
     "SourceDatasets": []
